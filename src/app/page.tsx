@@ -99,7 +99,7 @@ export default function Home() {
             </div>
             <div className="flex items-center space-x-4">
               <a
-                href="https://github.com"
+                href="https://github.com/ashutosh-rath02/json-prompt"
                 className="text-white/60 hover:text-white transition-colors text-sm"
               >
                 GitHub
